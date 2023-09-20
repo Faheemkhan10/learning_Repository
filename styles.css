@@ -1,9 +1,9 @@
-h1 { color: rgb(8, 8, 8); background-color: rgb(133, 128, 123); border-color: rgb(108, 106, 110);
-    border-style: double;
+h1 { color: rgb(8, 8, 8); background-color: rgb(133, 128, 123); border-color: rgb(47, 46, 48);
+    border-style:double;
 }
 p {
 
-    color: rgb(8, 8, 8);    font: 700; font-style:normal; font-weight: 200; font-size: medium;
+    color: rgb(8, 8, 8);  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  font: 700; font-style:normal; font-weight: 200; font-size: medium;
 }
 .profile_pic{
 
