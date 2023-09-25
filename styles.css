@@ -1,21 +1,53 @@
-h1 { color: rgb(8, 8, 8); background-color: rgb(133, 128, 123); border-color: rgb(47, 46, 48);
+h1 { color: #FFFFFF; background-color: rgb(20, 20, 20); border-color: rgb(10, 10, 14);
     border-style:double;
 }
 p {
 
-    color: rgb(8, 8, 8);  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  font: 700; font-style:normal; font-weight: 200; font-size: medium;
+    color: rgb(8, 8, 8);  font: 700; font-style:normal; font-weight: 200; font-size: medium;
+    border:0ch;
+    padding: 10px;
 }
 .profile_pic{
 
     float: right;
+    border-radius: 50%;
+    border-color: #0B0B0B;
+    border-width: 1rem;
+   
 }
-.pic_right {
-    background-color: rgb(212, 226, 247);
-    margin-right: 3%;
-    
-    )
 
+.marginlearn{
+
+    margin: 80px 35px 35px 40px;
+}
+.edutable td, .edutable th {
+
+  padding: 2% ;
+}
+.quote {
+
+    border: 1px solid white;
+    border-radius: 15px;
+
+}
+.circular_img{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+overflow: hidden;
+}
+.circular_img img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+}
 
 .personal_info {
     position: relative;
+}
+.profilephoto{
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 50%;
+   
 }
